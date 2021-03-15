@@ -8,6 +8,8 @@ Laravel version of my NextJS frontdesk application
 - cd frontdesk-apps-php
 - composer require tcg/voyager
 - php artisan voyager:install
+- php artisan key:generate
+- php artisan voyager:admin your@email.com
 
 ## License
 
