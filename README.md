@@ -2,11 +2,12 @@
 
 Laravel version of my NextJS frontdesk application
 
-## Install
+## Clone and install Voyager
 
 - git clone https://github.com/viktormorales/frontdesk-apps-php.git
 - cd frontdesk-apps-php
 - composer require tcg/voyager
+- php artisan voyager:install
 
 ## License
 
